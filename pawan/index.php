@@ -1,0 +1,1 @@
+<?php header( 'C:\Users\ACER\projects\pawan\templates\index.html' ) ;  ?>
